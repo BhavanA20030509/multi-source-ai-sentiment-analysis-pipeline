@@ -209,8 +209,6 @@ This project helped in understanding:
 
 ## Screenshots
 
-Add screenshots of:
-
 * Home Page
 * Text Analysis Page
 * URL Analysis Page
