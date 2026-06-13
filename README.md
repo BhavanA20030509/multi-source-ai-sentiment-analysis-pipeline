@@ -1,7 +1,5 @@
 # Multi Source AI Sentiment Analysis Pipeline
 
-## Overview
-
 **Multi Source AI Sentiment Analysis Pipeline** is a full-stack web application that analyzes sentiment from multiple input sources and provides recommendations based on the detected sentiment. The system allows users to submit either plain text or a website URL for analysis. Using Natural Language Processing (NLP) techniques, the application evaluates the sentiment of the content and classifies it as **Positive**, **Negative**, or **Neutral**, helping users determine whether the content is recommended for use or review.
 
 This project demonstrates the integration of modern web technologies, database management, and sentiment analysis techniques into a unified platform.
